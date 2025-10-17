@@ -16,18 +16,20 @@ body{
 
 .day0{
     display: inline;
-    margin-left: 300px;    
+    margin-left: 100px;    
     padding: 0%;
     margin-top: 200px;
 }
 .myheading1{
     font-size: 40px;
+    margin-left: 150px;
     color:blueviolet;
     display:inline-flex;
 }
 
 .myheading2{
-    font-size: 20px;
+    font-size: 38px;
+    margin-left: 50px;
     color: rgb(55, 136, 17);
 }
 .da{
@@ -36,18 +38,19 @@ body{
    margin-top: 50px; 
 }
 .mainhead{
-    font-size: 30px;
+    font-size: 35px;
     color:tomato;
 }
 .cont{
-    font-size: 20px;
+    font-size: 27.5px;
     text-align: left;
-    margin-left: 90px;
+    margin-left: 0px;
     width: 100px;
 }
 
 .specialp{
     color: rgb(6, 136, 93);
+    margin-left: 10px;
 }
 .tourimgp{
  display: grid;
