@@ -1,0 +1,63 @@
+/* Updated index.css */
+body{
+    padding: 0%;
+    border: 0cap;
+    z-index: 10px;
+    display: flex;
+    background-image:url(vlogimgs/bbgimg.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 625px; 
+    width: 1300px;
+    
+}
+
+.day0{
+    display: inline;
+    margin-left: 300px;    
+    padding: 0%;
+    margin-top: 200px;
+}
+.myheading1{
+    font-size: 40px;
+    color:blueviolet;
+    display:inline-flex;
+}
+
+.myheading2{
+    font-size: 20px;
+    color: rgb(55, 136, 17);
+}
+.da{
+   padding: 0%;
+   margin: 0%;
+   margin-top: 50px; 
+}
+.mainhead{
+    font-size: 30px;
+    color:tomato;
+}
+.cont{
+    font-size: 20px;
+    text-align: left;
+    margin-left: 90px;
+    width: 100px;
+}
+
+.specialp{
+    color: rgb(6, 136, 93);
+}
+.tourimgp{
+ display: grid;
+ grid-template-columns: 1fr 1fr;
+ grid-template-rows: 1fr 1fr;
+}
+.imgpt{
+    width: 400px;
+    height: 200px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
