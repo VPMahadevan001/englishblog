@@ -4,7 +4,7 @@ body{
     border: 0cap;
     z-index: 10px;
     display: flex;
-    background-image:url(vlogimgs/bbgimg.png);
+    background-image:url(imgs/bg\ img.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
